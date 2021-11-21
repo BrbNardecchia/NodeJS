@@ -1,6 +1,10 @@
 # customerManagementPrompt
 #### Command line customer management application
 
+### NPM packages:
+- yargs
+- chalk 
+
 ### Commands:
 - Add client
 - Delete client
