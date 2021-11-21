@@ -2,4 +2,5 @@
 NodeJS projects
 
 ### Studying Resources:
-#### Udemy:Maestro Node.js. Sviluppa applicazioni Fullstack
+Udemy: 
+Maestro Node.js. Sviluppa applicazioni Fullstack
